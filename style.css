@@ -20,10 +20,9 @@ header {
 .tituloPrincipal {
   position: absolute;
   top: 90px;
-  right: 420px;
+  right: 500px;
   font-weight: bolder;
   font-size: 3em; 
-  text-transform: uppercase;
   color: #2A6CE7;
   
 }
@@ -255,7 +254,9 @@ th {
 
 .imagen-covid {
   width: 20%;
+  height: 60%;
   margin: 20px;
+  align-self: center;
 }
 
 @media screen and (max-width:480px) {
